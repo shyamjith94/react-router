@@ -1,7 +1,7 @@
 import React from "react";
 
 
-const Contact = () => {
+const Contact = (props) => {
     return ( 
         <div className="cantainer">
             <h4 className="center">Contact</h4>
